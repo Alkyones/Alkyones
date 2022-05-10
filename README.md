@@ -7,4 +7,4 @@
 <a href="https://www.linkedin.com/in/atakan-yildirim-1b202a234/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"height=40></a>
 </p>
 
-<center><h3>Skills</h3></center>
+<center><h1>Skills</h1></center>
