@@ -1,4 +1,6 @@
-<h1>Hey 👋, I'm Atakan</h1>
+<img src="https://i.imgur.com/oRSMlSV.png" alt="Atakan's GitHub README header image" style="width:1000px;height:500px">
+
+<h1>Hey 👋</h1>
 <p>I'm currently working as a freelancer in Turkey, Learning serverless algorithms. In my free time i work on my side projects and learn new dishes.</p>
 <p>I enjoy a good coffee, music can touch the soul and a city can show the meaning of the passion. I travel , play chess and go wild whenever i have the chance.</p>
 
@@ -10,7 +12,6 @@
       <li>🌵 Third grade SE studente </li>
 </ul>
       
-<img src="https://i.imgur.com/oRSMlSV.png" alt="Atakan's GitHub README header image" style="width:1000px;height:500px">
 
 <p>
 <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
@@ -20,4 +21,4 @@
 </p>
 
 <center><h1>🚀 Some Tools That I Use</h1></center>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
+<img src='https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/css3.svg'>
