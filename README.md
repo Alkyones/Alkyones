@@ -23,7 +23,7 @@
 
 <center><h1>🚀 Some Tools That I Use</h1></center>
 <p>
-<img src='https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!PNG/css3.png' width=100>
+<img src='https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!PNG/css3.png' width=80>
 <img src='https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/git.svg'>
 <img src='https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/python.svg'>
 <img src='https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/django.svg'>
