@@ -3,6 +3,7 @@
 <h1>Hey 👋</h1>
 <p>I'm currently working as a freelancer in Turkey, Learning serverless algorithms. In my free time i work on my side projects and learn new dishes.</p>
 <p>I enjoy a good coffee, music can touch the soul and a city can show the meaning of the passion. I travel , play chess and go wild whenever i have the chance.</p>
+<b><p>Sorry for inactivity i was kinda busy with my personal life and work was keeping me quite busy, repositories will be updated soon!</p></b>
 
 <h1>⚡️ A Few Quick Facts</h1>
 <ul>
