@@ -10,7 +10,7 @@
       <li>📙 Currently working on Ruby</li>
       <li>👨‍💻 Developing a bug tracker for OS</li>
       <li>🍌 Learning Green IT</li>
-      <li>🌵 Third grade SE studente </li>
+      <li>🌵 Third grade SE student </li>
 </ul>
       
 
