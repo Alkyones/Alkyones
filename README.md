@@ -34,8 +34,21 @@
 <img src='https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/javascript.svg' width=80>
 <img src='https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/scrum.svg' width=80>
 <img src='https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/sqllite.svg' width=80>
-      </p>
-
+</p>
+<center><h1>👇 Top projects I have participated</h1></center>
+<p>
+      <h3>ITracker:</h3>
+      <p>ITracker was a finance/expense tracker for personal use case. It had data visualization, data scraping and basic machine learning process in additional to web development (Django/Python).</p>
+      <h3>Expo Scraps:</h3>
+      <p>It is not a project itself. While working in a company they needed continuous data transfer from external sources so I had to build pipelines to scrap/clean data situmuniously.</p>
+      <h3>LookIT:</h3>
+      <p>It is a web development process developed by Python mainly. It is a multi purpose website for developers that they can keep their personal space even drive in one website insted of using multiple websites.</p>
+      <h3>ConsoleGURU:</h3>
+      <p>As its understandable from the name it's a console application that user can access from cross platform consoles by triggering a command. With that program they can create their own ciphers and put on files/folders
+      to keep them safe, they can also zip/unzip them much more easier than expected.</p>
+      <h3>Frupro:</h3>
+      <p>It is a start up project tech stack can be counted as Reactjs, MongoDB, GCP. With this project I have mastered GCP principles, NoSQL document type databases and their integrations and JS.</p>
+</p>
 
 
 
