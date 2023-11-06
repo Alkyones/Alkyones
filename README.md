@@ -38,7 +38,7 @@
 <center><h1>👇 Top projects I have participated</h1></center>
 <p>
       <h3>ITracker:</h3>
-      <p>ITracker was a finance/expense tracker for personal use case. It had data visualization, data scraping and basic machine learning process in additional to web development (Django/Python).</p>
+      <p>Designed an Artificial Intelligence-based expense tracking system using AI and deep learning techniques. The system allowed a user to track their expenses and finances while letting them learn their market worth & billing risks and making real-time decisions for user benefits. It was capable of identifying and tracking invoices, bills and manually entered expenses. For this project purposes Built a robust and scalable test automation framework using Python for a web-based application. The framework allowed for end-to-end testing, regression testing, and continuous integration. It improved test coverage and reduced manual testing efforts.</p>
       <h3>Expo Scraps:</h3>
       <p>It is not a project itself. While working in a company they needed continuous data transfer from external sources so I had to build pipelines to scrap/clean data situmuniously.</p>
       <h3>LookIT:</h3>
@@ -48,6 +48,8 @@
       to keep them safe, they can also zip/unzip them much more easier than expected.</p>
       <h3>Frupro:</h3>
       <p>It is a start up project tech stack can be counted as Reactjs, MongoDB, GCP. With this project I have mastered GCP principles, NoSQL document type databases and their integrations and JS.</p>
+      <h3>NPLMs Training</h3>
+      <p>Led a training state-of-the-art NLP model for various text-based applications. This project involved developing custom models, fine-tuning pre-trained models, and optimizing them for specific tasks such as sentiment analysis, text summarization, and named entity recognition.</p>
 </p>
 
 
