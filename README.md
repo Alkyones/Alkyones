@@ -46,8 +46,8 @@
       <h3>ConsoleGURU:</h3>
       <p>As its understandable from the name it's a console application that user can access from cross platform consoles by triggering a command. With that program they can create their own ciphers and put on files/folders
       to keep them safe, they can also zip/unzip them much more easier than expected.</p>
-      <h3>Frupro:</h3>
-      <p>It is a start up project tech stack can be counted as Reactjs, MongoDB, GCP. With this project I have mastered GCP principles, NoSQL document type databases and their integrations and JS.</p>
+      <h3>B2B Web Product:</h3>
+      <p>Name removed due to creds. please contact me for further details.It is a start up project tech stack can be counted as Reactjs, MongoDB, GCP. With this project I have mastered GCP principles, NoSQL document type databases and their integrations and JS.</p>
       <h3>NPLMs Training</h3>
       <p>Led a training state-of-the-art NLP model for various text-based applications. This project involved developing custom models, fine-tuning pre-trained models, and optimizing them for specific tasks such as sentiment analysis, text summarization, and named entity recognition.</p>
 </p>
