@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/2bW8Qbe" alt="Ata's GitHub README header image" style="width:1000px;height:500px">
+<img src="https://i.imgur.com/qvhFmbj.png" alt="Ata's GitHub README header image" style="width:1000px;height:500px">
 
 <h1>Hey 👋</h1>
 <p>I'm currently working as a freelancer in Turkey and for a British company as a BackEnd developer, Learning serverless algorithms. In my free time i work on my side projects and learn new dishes.</p>
