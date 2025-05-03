@@ -39,6 +39,9 @@
 <p>
       <h3>ITracker:</h3>
       <p>Designed an Artificial Intelligence-based expense tracking system using AI and deep learning techniques. The system allowed a user to track their expenses and finances while letting them learn their market worth & billing risks and making real-time decisions for user benefits. It was capable of identifying and tracking invoices, bills and manually entered expenses. For this project purposes Built a robust and scalable test automation framework using Python for a web-based application. The framework allowed for end-to-end testing, regression testing, and continuous integration. It improved test coverage and reduced manual testing efforts.</p>
+      </p>
+      <h3>MarketInsight:</h3>
+      <p>It is a project I developed on request. Client had to scrap some product details and their prices from popular websites. Project allows user to scrap various types of data from those websites using threading for handling multiple scraping at once, automating those scraps and serving the data as user requested, project also allows users to export those data in the format they like, project covers mailing and notifying users as well.</p>
       <h3>Expo Scraps:</h3>
       <p>It is not a project itself. While working in a company they needed continuous data transfer from external sources so I had to build pipelines to scrap/clean data situmuniously.</p>
       <h3>LookIT:</h3>
