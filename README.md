@@ -19,7 +19,7 @@
 <a href="https://www.buymeacoffee.com/lifeonshorV" target="_blank">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
             </a>
-<a href="https://www.linkedin.com/in/atakan-yildirim-1b202a234/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"height=40></a></p>
+<a href="https://www.linkedin.com/in/atakan-r-yildirim-1b202a234/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"height=40></a></p>
 </div>
 
 <center><h1>🚀 Some Tools That I Use</h1></center>
